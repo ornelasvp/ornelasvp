@@ -18,11 +18,11 @@
 # 📊 GitHub Stats:
 
 <div align="left">
-     <a href="http://www.github.com/martinsvp">
-       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=martinsvp&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" />
+     <a href="http://www.github.com/ornelasvp">
+       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ornelasvp&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" />
      </a>
-     <a href="http://www.github.com/martinsvp">
-       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinsvp&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+     <a href="http://www.github.com/ornelasvp">
+       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ornelasvp&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
      </a>  
  </div>
 
@@ -55,7 +55,7 @@
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/martinsvp/martinsvp/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/martinsvp/martinsvp/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/martinsvp/martinsvp/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ornelasvp/ornelasvp/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ornelasvp/ornelasvp/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ornelasvp/ornelasvp/output/github-snake.svg" />
 </picture>
