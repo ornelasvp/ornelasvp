@@ -11,7 +11,12 @@
 
 <br>
 
-✍🏼 contact me: ![Linkedin]("https://www.linkedin.com/in/ornelasvp/") | ![E-mail]("https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=victorornelas.dev@proton.me")
+<p>
+  ✍🏼 contact me:
+  <a href="https://www.linkedin.com/in/ornelasvp/" target="_blank">Linkedin</a>
+  |
+  <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=victorornelas.dev@proton.me" target="_blank">E-mail</a>
+</p>
 
 ---
 
