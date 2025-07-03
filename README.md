@@ -6,7 +6,7 @@
   <br>
   
   <p>👨🏼‍🎓 studying Information Systems at the Fluminense Federal University</p>
-  <p>👨🏼‍💻 working as a developer since 2023</p>
+  <p>👨🏼‍💻 working as a software developer since 2023</p>
 </div>
 
 <br>
