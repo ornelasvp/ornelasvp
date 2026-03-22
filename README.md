@@ -20,4 +20,4 @@
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,python,nodejs,express,react,postgres,mysql,docker,html,css,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,express,java,spring,python,postgres,docker,html,css,git,github,linux)](https://skillicons.dev)
